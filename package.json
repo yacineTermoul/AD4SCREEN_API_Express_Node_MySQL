@@ -1,0 +1,25 @@
+{
+  "name": "ad4screen_api_express_node_mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "startServer": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yacineTermoul/AD4SCREEN_API_Express_Node_MySQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yacineTermoul/AD4SCREEN_API_Express_Node_MySQL/issues"
+  },
+  "homepage": "https://github.com/yacineTermoul/AD4SCREEN_API_Express_Node_MySQL#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
